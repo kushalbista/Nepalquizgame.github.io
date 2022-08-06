@@ -2,7 +2,8 @@
 .modal__container button.close {
     position: absolute;
     right: 35px;
-    top: 1000px;
+    top: 10px;
+    bottom: 500px;
     font-size: 33px;
     background: none;
     border: none;
