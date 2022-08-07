@@ -290,6 +290,8 @@ position:fixed;
     transition: 0.1s;
     top:545px;
     position: relative;
+    margin-right:10px;
+    margin-left:10px;
   }
    
 
