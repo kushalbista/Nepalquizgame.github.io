@@ -289,7 +289,7 @@ position:fixed;
     display: flex;
     transition: 0.1s;
     top:545px;
-    position: absolute;
+    position: relative;
     
     
   }
